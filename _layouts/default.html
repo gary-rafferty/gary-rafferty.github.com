@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.meta_description }}">
+    <meta name="keywords" content="{{ page.meta_keywords }}" />
+    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap-1.2.0.min.css" />
+    <link rel="stylesheet" href="/css/styles.css" type="text/css" />
+  </head>
+  <body style="padding-top: 40px;">
+    <div class="topbar">
+      <div class="topbar-inner">
+        <div class="container">
+          <h3><a href="/">Gary Rafferty</a></h3>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="container-fluid">
+        <div class="content">
+            {{ content }}
+        </div> 
+        <div class="sidebar" style="float:right;">
+          <img class="thumbnail" src="/images/me.jpg" />
+          <p>
+            <a href="mailto:gary.rafferty@gmail.com">gary.rafferty@gmail.com</a>
+          </p>
+          <a href="http://twitter.com/gary_rafferty">Twitter</a> | 
+          <a href="http://flickr.com/gary_rafferty">Flickr</a> | 
+          <a href="http://github.com/gary-rafferty">Github</a><br />
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-26119074-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </body>
+</html>
