@@ -20,7 +20,7 @@ If not, just stick the following in yout Gemfile and let Bundler sort things.
 {% highlight ruby %}
   group :test do
     gem 'turn', :require => false
-    gem 'factory_firl_rails'
+    gem 'factory_girl_rails'
     gem 'capybara',
     gem 'rspec-rails'
     gem 'guard-rspec',
