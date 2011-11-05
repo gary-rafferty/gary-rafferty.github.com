@@ -8,7 +8,7 @@ meta_description: How I test devise using rspec and capybara
 h1. {{ page.title }}
  
 p. I use Rails quite a bit for development and recently noticed that my unit tests were quite indepth but that my integration tests were lacking. 
-So I recently had a flick through ["Rails Test Prescriptions":http://http://pragprog.com/book/nrtest/rails-test-prescriptions], then took a gander at other people's code on Github, and decided
+So I recently had a flick through ["Rails Test Prescriptions":http://pragprog.com/book/nrtest/rails-test-prescriptions], then took a gander at other people's code on Github, and decided
 to make more of an effort with testing.
 
 I usually use the ["Devise":https://github.com/plataformatec/devise] gem for authentication and figured that a good place to start
