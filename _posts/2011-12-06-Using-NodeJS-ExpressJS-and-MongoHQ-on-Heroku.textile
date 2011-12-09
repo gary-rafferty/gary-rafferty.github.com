@@ -2,7 +2,7 @@
 layout: post
 title: Using Node.JS, Express & MongoDB on Heroku
 author: Gary Rafferty
-meta_keywords: node.js, mongodb, heroku, nome-mongolian, mongohq
+meta_keywords: node.js, mongodb, heroku, node-mongolian, mongohq
 meta_description: Using Node.JS & MongoDB (through node-mongolian) on Heroku
 ---
 h1. {{ page.title }}
