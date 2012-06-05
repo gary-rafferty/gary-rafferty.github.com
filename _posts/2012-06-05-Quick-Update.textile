@@ -1,0 +1,15 @@
+---
+layout: post
+title: Quick update
+author: Gary Rafferty
+meta_keywords: gary rafferty
+meta_description: Quick update
+---
+h1. {{ page.title }}
+
+p. This is just a quick update so people don't stumble across this blog and think that I'm dead.
+Been mega busy lately and never got around to writing up any posts. I'll write something up
+over the next week or so.
+Meanwhile, you'll probably catch me on "twitter":http://twitter.com/gary_rafferty or find me on "github":https://github.com/gary-rafferty
+
+p. Cheers,
