@@ -53,9 +53,8 @@ The model validations aren't quite as nice as they are in Rails, but they do the
 Here's a sample, and check out the "Validations":http://lithify.me/docs/manual/working-with-data/validation.wiki  section in the manual for more information.
 
 {% highlight php %}
-
+<?php
 class MyModel extends \lithium\data\Model {
-
   public $validates = array(
     'attribute' => array(
       array(
@@ -72,7 +71,7 @@ class MyModel extends \lithium\data\Model {
 
   //... rest of class def...
 }
-
+?>
 {% endhighlight %}
 
 p. 
@@ -86,13 +85,13 @@ When you are using a relational datastore, then you can make use of model relati
 These do not work in MongoDB or other NoSQL stores.
 
 {% highlight php %}
-
+<?php
 class MyModel extends \lithium\data\Model {
   public $hasOne = array('Account');
   public $belongsTo = array('User');
   public $hasMany = array('Friends');
 }
-  
+?>
 {% endhighlight %}
 
 p. I'll add some more to the list of miscellaneous Lithium bits and bobs when I get a chance.

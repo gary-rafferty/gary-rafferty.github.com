@@ -17,7 +17,7 @@ By default, the lithium detector will only set the environment to development if
 A quick and easy way to get around this, is to modify /config/bootstrap/action.php to check the HTTP_HOST and set the environment if a conditional is fulfilled.
 
 {% highlight php%}
-
+<?php
 Dispatcher::applyFilter('run', function($self, $params, $chain) {
 
   /*
@@ -41,7 +41,7 @@ Dispatcher::applyFilter('run', function($self, $params, $chain) {
   
   return $chain->next($self, $params, $chain);
 });
-
+?>
 {% endhighlight %}
 
 There's probably a better way to do this, by setting an Apache env variable and checking that, but this was a quick and dirty hack that did the trick.
