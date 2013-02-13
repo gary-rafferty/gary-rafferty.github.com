@@ -7,7 +7,7 @@ meta_description: Supply arguments to a rake task
 ---
 h1. {{ page.title }}
 
-Whilst working on a recent "project":https://github.com/gary-rafferty/gitbook, I wanted to create a rake task that would send a curl request to a 
+Whilst working on a recent "project":https://github.com/gary-rafferty/gitline, I wanted to create a rake task that would send a curl request to a 
 particular url. It was a pain to keep changing the resource id, so I decided to write a rake task that could accept the resource id as an argument.
 
 For anyone looking to do something similar, it's actually quite simple.
