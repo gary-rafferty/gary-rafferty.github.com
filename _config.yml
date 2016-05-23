@@ -1,3 +1,3 @@
-highlighter: pygments
+highlighter: rouge
 permalink:   date
 url: http://garyrafferty.com
