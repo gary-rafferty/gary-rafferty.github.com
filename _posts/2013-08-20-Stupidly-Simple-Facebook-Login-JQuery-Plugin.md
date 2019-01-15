@@ -1,13 +1,9 @@
 ---
-layout: post
+layout: single
 title: Stupidly simple jQuery plugin for Facebook login
-author: Gary Rafferty
-meta_keywords: jQuery facebook login plugin
-meta_description: A simple jQuery plugin for Facebook login
+categories: [software]
+tags: [ruby gem]
 ---
-h1. {{ page.title }}
-
-
 Using Facebook to authenticate users for you application is nice for a number of reasons.
 
 * Reduces friction within the registration process.
@@ -20,7 +16,7 @@ I generally opt to use the client-side approach as I feel it makes for a better 
 
 I've implemented this on roughly 10 - 20 applications over the last couple of months, and the code is generally the same.
 
-Rather than the usual copying and pasting from one app to another, I've bundled the code into a "jQuery plugin":http://garyrafferty.com/flogin.
+Rather than the usual copying and pasting from one app to another, I've bundled the code into a [jQuery plugin](http://garyrafferty.com/flogin).
 
 The plugin allows you to specify 
 
@@ -32,10 +28,9 @@ The plugin allows you to specify
 
 The only mandatory argument is the appId, and sensible defaults are used for the rest.
 
-See the "Github":https://github.com/gary-rafferty/flogin page for more information and sample usage, but essentially, usage is as follows
+See the [Github](https://github.com/gary-rafferty/flogin) page for more information and sample usage, but essentially, usage is as follows
 
-{% highlight html %}
-
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -57,10 +52,9 @@ See the "Github":https://github.com/gary-rafferty/flogin page for more informati
     <a href='#' id='login'>Login with Facebook</a>
   </body>
 </html>
+```
 
-{% endhighlight %}
-
-The function facebook_login() is invoked on a jQuery element's click event, and the rest is taken care of.
+The function `facebook_login()` is invoked on a jQuery element's click event, and the rest is taken care of.
 In the above example, the users is greeted with the Facebook authentication dialog, and permissions is requested for the user's email address.
 When the user has authorized your application, a POST request is sent to /sessions/new with the user_id, email and access token.
 Thereafter, the onSuccess() callback is invoked (you will likely redirect the user).

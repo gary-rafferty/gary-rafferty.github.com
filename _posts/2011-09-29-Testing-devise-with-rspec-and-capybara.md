@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: single
 title: Integration testing Devise with RSpec and Capybara
-author: Gary Rafferty
-meta_keywords: Devise,RSpec,Capybara,Testing,Rails
-meta_description: How I test devise using rspec and capybara
+categories: [software]
+tags: [devise, rspec, rails, capybara]
 ---
-# {{ page.title }}
- 
 I use Rails quite a bit for development and recently noticed that my unit tests were quite indepth but that my integration tests were lacking.   
 So I recently had a flick through [Rails Test Prescriptions](http://pragprog.com/book/nrtest/rails-test-prescriptions), then took a gander at other people's code on Github, and decided  
 to make more of an effort with testing.

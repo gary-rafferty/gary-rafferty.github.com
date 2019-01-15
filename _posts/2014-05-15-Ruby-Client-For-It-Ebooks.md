@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: single
 title: A ruby client for free tech books
-author: Gary Rafferty
-meta_keywords: free ebooks gem ruby it-ebooks api
-meta_description: A ruby client for the it-ebooks api
+categories: [software]
+tags: [ruby gem]
 ---
-# A ruby client for it-ebooks.info
-
 If you're not already using [IT-Ebooks.info](http://it-ebooks.info/) for sourcing ebooks, then you probably should be.  
 
 I hadn't realised that they also have a simple API interface..... Boom!

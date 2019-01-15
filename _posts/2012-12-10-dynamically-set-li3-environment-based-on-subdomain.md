@@ -1,22 +1,19 @@
 ---
-layout: post
+layout: single
 title: Dynamically set li3 environment based on subdomain
-author: Gary Rafferty
-meta_keywords: li3 lithium environment subdomain filter
-meta_description: Dynamically set li3 environment based on subdomain
+categories: [software]
+tags: [php lithium]
 ---
-h1. {{ page.title }}
-
-I've "mentioned before":http://garyrafferty.com/2012/12/05/Miscellaneous-Lithium-Bits.html, that our latest "project":http://propelad.com in work, is built on "Lithium":http://lithify.me/.
-It aint no Rails, but its not bad for a PHP framework!
+I've mentioned before that our latest project in work, is built on [Lithium](http://lithify.me).
+It aint no Rails, but its not bad for a PHP framework! ;)
 
 Today I needed to dynamically set the Environment based on the HTTP_HOST, specifically, development environment when a particular subdomain was used.
 
 By default, the lithium detector will only set the environment to development if the request is coming from 127.0.0.1.
 
-A quick and easy way to get around this, is to modify /config/bootstrap/action.php to check the HTTP_HOST and set the environment if a conditional is fulfilled.
+A quick and easy way to get around this, is to modify `/config/bootstrap/action.php` to check the HTTP_HOST and set the environment if a conditional is fulfilled.
 
-{% highlight php%}
+```php
 <?php
 Dispatcher::applyFilter('run', function($self, $params, $chain) {
 
@@ -30,7 +27,7 @@ Dispatcher::applyFilter('run', function($self, $params, $chain) {
   );
 
   $requesting_host = $params['request']->env('HTTP_HOST');
-  
+
   if(in_array($requesting_host,$subs)) {
     Environment::set('development');
   } else {
@@ -38,10 +35,10 @@ Dispatcher::applyFilter('run', function($self, $params, $chain) {
   }
 
   // ... rest of filter definition ...
-  
+
   return $chain->next($self, $params, $chain);
 });
 ?>
-{% endhighlight %}
+```
 
 There's probably a better way to do this, by setting an Apache env variable and checking that, but this was a quick and dirty hack that did the trick.

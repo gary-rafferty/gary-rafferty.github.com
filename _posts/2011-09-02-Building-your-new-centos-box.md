@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: single
 title: Building your new CentOS box
-author: Gary Rafferty
-meta_keywords: CentOS VPS, Gary Rafferty
-meta_description: Build and configure a new CentOS server
+categories: [software]
+tags: [linux]
 ---
-# {{ page.title }}
- 
 
 I tend to use Dediserve for my VPS solutions, and anytime I create a new box with them,  
 I generally build it the same way. Most of the steps I've picked up along the way,  
@@ -125,7 +122,7 @@ Make the changes permanent
   $: /sbin/service iptables save
 ```
 
-h3. Finally, reload ssh, and verify you can login as your new user
+### Finally, reload ssh, and verify you can login as your new user
 
 ```bash
    $: /etc/init.d/sshd reload

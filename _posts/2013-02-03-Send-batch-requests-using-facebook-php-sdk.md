@@ -1,20 +1,17 @@
 ---
-layout: post
-title: Send batch requests to Graph API using Facebook's PHP client 
-author: Gary Rafferty
-meta_keywords: facebook php sdk batch batched graph
-meta_description: Send batch requests to Graph API using facebook's PHP Client.
+layout: single
+title: Send batch requests to Graph API using Facebook's PHP client
+categories: [software]
+tags: [php facebook]
 ---
-h1. {{ page.title }}
-
-The PHP SDK provided by Facebook is quite good, though it lacks the ability to send "batched requests":https://developers.facebook.com/docs/reference/api/batch/.
+The PHP SDK provided by Facebook is quite good, though it lacks the ability to send [batched requests](https://developers.facebook.com/docs/reference/api/batch/).
 The reason for sending batched requests is that it allows you to combine multiple requests into a single one.
 
-I've added the functionality and submitted a "pull request":https://github.com/facebook/facebook-php-sdk/pull/62 on GitHub, but just incase that doesn't get merged for some reason, here's how to do it yourself.
+I've added the functionality and submitted a [pull request](https://github.com/facebook/facebook-php-sdk/pull/62) on GitHub, but just incase that doesn't get merged for some reason, here's how to do it yourself.
 
-Modify src/base_facebook.php and add the following function
+Modify `src/base_facebook.php` and add the following function
 
-{% highlight php %}
+```php
 <?php
   /*
    * Send a batched request to the graph api
@@ -42,12 +39,11 @@ Modify src/base_facebook.php and add the following function
     return $retval;
   }
 ?>
-{% endhighlight %}
+```
 
 And then be a nice guy, and add a quick test to tests/tests.php
 
-
-{% highlight php %}
+```php
 <?php
   public function testBatchedAPIGraphCall() {
     $facebook = new TransientFacebook(array(
@@ -68,7 +64,7 @@ And then be a nice guy, and add a quick test to tests/tests.php
     $this->assertEquals('ChrisHughes', $response[1]['username']);
   }
 ?>
-{% endhighlight %}
+```
 
 You can see the usage in the test above, but essentially all that you need to do is create a multidimensional array where each value 
 is an array containing the method type, and the relative url. The just call the ->batch() method on the Facebook instance and parse the results.

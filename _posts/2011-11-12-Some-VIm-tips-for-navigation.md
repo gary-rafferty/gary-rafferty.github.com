@@ -1,18 +1,15 @@
 ---
-layout: post
+layout: single
 title: Some VIm tips for navigation
-author: Gary Rafferty
-meta_keywords: vim, vim splits, vim tabs, vim navigation, vi
-meta_description: Some simple navigations tips for VIm, includes window slits and tabs
+categories: [software]
+tags: [vim]
 ---
-h1. {{ page.title }}
-
-p. VIm is my primary editor,.. actually, scratch that, my only editor.
+VIm is my primary editor,.. actually, scratch that, my only editor.
 I spend most of my awake time in terminals writing code and over the years I've found VIm to be one pretty powerful tool.
 
-h3. Splits
+### Splits
 
-p. One thing that I've always found especially useful for development is the ability to split the screen to view / edit multiple files at once.
+One thing that I've always found especially useful for development is the ability to split the screen to view / edit multiple files at once.
 
 To split the window vertically, simply use the command
 
@@ -28,9 +25,9 @@ and to split the window horizontally, use the command
 
 You can yank and paste text between the spits and navigate around using <ctrl>+ww.
 
-h3. Tabs
+### Tabs
 
-p. Another thing I use when writing code is VImTabs.
+Another thing I use when writing code is VImTabs.
 
 The four commands you need to remember are: 
 
@@ -58,9 +55,9 @@ To navigate to the previous tab (left)
 :tabc
 {% endhighlight %}
 
-h3. Tab mappings
+### Tab mappings
 
-p. But having to type those command each time you want to navigate becomes a pain so here's a mapping that I use to speed things up.
+But having to type those command each time you want to navigate becomes a pain so here's a mapping that I use to speed things up.
 
 {% highlight bash %}
 "Mappings for tab controls

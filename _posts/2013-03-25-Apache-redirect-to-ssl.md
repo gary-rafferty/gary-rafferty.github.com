@@ -1,22 +1,18 @@
 ---
-layout: post
+layout: single
 title: Apache redirect to SSL
-author: Gary Rafferty
-meta_keywords: apache redirect ssl
-meta_description: Redirect all http traffic to https
+categories: [software]
+tags: [apache]
 ---
-h1. {{ page.title }}
-
 This is something I can never remember, and keep having to Google.
 
 Use case is that I want to redirect all http:// trafic to https:// and maintain the original URL
 
-{% highlight bash %}
+```bash
 
 RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
-
-{% endhighlight %}
+```
 
 Stick that into your Apache config or .htaccess and it should do the trick.

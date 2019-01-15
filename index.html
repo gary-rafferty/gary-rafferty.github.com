@@ -1,22 +1,5 @@
 ---
-layout: default
-type: website
-title: Gary Rafferty
-meta_keywords: Gary Rafferty
-meta_description: Personal blog and webpage of Gary Rafferty 
+layout: home
+author_profile: true
 ---
-<br />
-<p>
-  I'm Gary, a software developer based in Dublin.<br />
-  Not normally one for writing / blogging but I'm using this
-  to keep all my <br />notes and scribbles in one place.<br />
-  I usually tweet from <a href="http://twitter.com/gary_rafferty">here</a>
-  and occasionally take some flicks and post them 
-  <a href="http://flickr.com/gary_rafferty">here</a>.
-</p>
-<h3>Some recent posts</h3>
-{% for post in site.posts %}
-  <div class="post">
-      <h3>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></h3>
-  </div>
-{% endfor %}
+
