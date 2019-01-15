@@ -2,7 +2,7 @@
 layout: single
 title: A ruby client for free tech books
 categories: [software]
-tags: [ruby gem]
+tags: [ruby,gem]
 ---
 If you're not already using [IT-Ebooks.info](http://it-ebooks.info/) for sourcing ebooks, then you probably should be.  
 
