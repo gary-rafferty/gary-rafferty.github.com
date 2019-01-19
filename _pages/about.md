@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: false
 ---
 
-Hi, I'm Gary Rafferty. I am a software developer based in Dublin.
+Hi, I'm Gary Rafferty, a software developer based in Dublin.
 
 I work for [Lonely Planet](https://www.lonelyplanet.com/) as a Development Team Lead. Our team are responsible
 for the development and operations of the authoring and editing platform that
