@@ -2,7 +2,7 @@
 layout: single
 title: Stupidly simple jQuery plugin for Facebook login
 categories: [software]
-tags: [ruby gem]
+tags: [javascript, jquery, facebook]
 ---
 Using Facebook to authenticate users for you application is nice for a number of reasons.
 
