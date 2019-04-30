@@ -5,7 +5,7 @@ categories: [reading]
 tags: [javascript]
 ---
 
-I am currently reading [Rediscovering JavaScript](https://pragprog.com/book/ves6/rediscovering-javascript<Paste>).
+I am currently reading [Rediscovering JavaScript](https://pragprog.com/book/ves6/rediscovering-javascript).
 
 For me, when I want to deepen my understanding of a language or framework, my
 goto is usually a book on the topic. Right away, I'll usually open up VIm and
@@ -28,3 +28,16 @@ typical Pragmatic fashion, everything is cemented with a piece of code and some
 exercises at the close of the chapter.
 
 The first section of the book points out may JS gotchas, but provides safe new alternatives that will steer you in the right direction.
+
+The second section is concerned with new additions to the language, covering topics such as Iterators & Symbols, arrow functions and destructuring.
+
+The third section covers OO and modular code, and defines how to properly use classes In Javascript.
+
+The fourth and final sections digs a little deeper into Metaprogramming.
+
+I enjoyed reading this book. It wasn't a "cover to cover in one sitting" type of
+book, much like all programming books, but I did find myself learning something
+new every time I dived in. Venkat provided clear and concise snippets of code
+with real-world examples. If you read this book, you will not only write better
+Javascript, but you will and also get a better understanding for the evolution
+of the language.
