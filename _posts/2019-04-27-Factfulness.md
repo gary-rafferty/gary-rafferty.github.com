@@ -10,7 +10,7 @@ Some notes from
   Think).
 
 > A helpful book about the potential for human progress when we work off facts
-> rather than our enherent biases.
+> rather than our inherent biases.
 >  
 > Barack Obama.
 
