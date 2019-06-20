@@ -8,6 +8,8 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Nudge : Improving Decisions About Health, Wealth and Happiness](https://www.bookdepository.com/Nudge/9780143115267) by Richard H. Thaler  
+[Thinking in Systems - A primer](https://www.bookdepository.com/Thinking-in-Systems-Donella-Meadows/9781603580557) by Donella H. Meadows  
 [Behave. The Biology of Humans at our best and worst](https://www.bookdepository.com/Behave/9780099575061) by Robert Sapolsky  
 [Why We Sleep](https://www.bookdepository.com/Why-We-Sleep-Matthew-Walker/9780141983769) by Matthew Walker  
 [An Elegant Puzzle. Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson  
