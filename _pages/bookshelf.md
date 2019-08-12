@@ -8,6 +8,9 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Addiction By Design - Machine Gambling in Las
+Vegas](https://www.bookdepository.com/Addiction-by-Design-Natasha-Dow-Schull/9780691160887) by Natasha Dow Schull  
+[A Man For All Markets](https://www.bookdepository.com/Man-for-All-Markets-Edward-O-Thorp/9780812979909) by Edward O Thorp  
 [Nudge : Improving Decisions About Health, Wealth and Happiness](https://www.bookdepository.com/Nudge/9780143115267) by Richard H. Thaler  
 [Thinking in Systems - A primer](https://www.bookdepository.com/Thinking-in-Systems-Donella-Meadows/9781603580557) by Donella H. Meadows  
 [Behave. The Biology of Humans at our best and worst](https://www.bookdepository.com/Behave/9780099575061) by Robert Sapolsky  
