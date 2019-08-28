@@ -5,7 +5,7 @@ categories: [software]
 tags: [aws,rds]
 ---
 
-Reserved instances (RIs) can be used to reserve a resource for a one year or a three 
+Reserved RDS instances (RIs) can be used to reserve a resource for a one year or a three 
 term in exchange for a billing discount - a sizeable discount compared with the standard on-demand price.
 
 An RI is not a physical resource (there is no instance identifier for example), it is merely a
