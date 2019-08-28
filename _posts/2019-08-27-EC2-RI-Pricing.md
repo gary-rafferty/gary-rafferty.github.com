@@ -78,3 +78,9 @@ Amazon also allows you to combine instances.
 By reserving a single t2.small instance, we have an NF of 1 to play with.
 This could be split between two t2.nano instances and one t2.micro. This makes
 for much easier forecasting of cost and usage across your infrastructure layer.
+
+## Caveats
+
+* This flexibility only applies to Linux instances.
+* NFs cannot be shared across families.
+* Instances must be using shared tenancy (the default).
