@@ -8,6 +8,10 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[The Mythical Man-Month : Essays on Software
+Engineering](https://www.bookdepository.com/Mythical-Man-Month-Frederick-P-Brooks-Jr/9780201835953) by Frederick P. Brooks Jr  
+[Chernobyl : History of a Tragedy](https://www.bookdepository.com/Chernobyl-Serhii-Plokhy/9780141988351) by Serhii Plokhy  
+[Peopleware : Productive Projects and Teams](https://www.bookdepository.com/Peopleware-Tom-DeMarco/9780321934116) by Tom De Marco, Tim Lister  
 [Addiction By Design - Machine Gambling in Las
 Vegas](https://www.bookdepository.com/Addiction-by-Design-Natasha-Dow-Schull/9780691160887) by Natasha Dow Schull  
 [A Man For All Markets](https://www.bookdepository.com/Man-for-All-Markets-Edward-O-Thorp/9780812979909) by Edward O Thorp  
@@ -90,3 +94,4 @@ Vegas](https://www.bookdepository.com/Addiction-by-Design-Natasha-Dow-Schull/978
 [Beginning Scala](https://www.bookdepository.com/Beginning-Scala/9781430219897) by David Pollack  
 [Patterns of Enterprise Application Architecture](https://www.bookdepository.com/Patterns-of-Enterprise-Application-Architecture/9780321127426) by Martin Fowler  
 [The Thrilling Adventures of Lovelace and Babbage](https://www.bookdepository.com/The-Thrilling-Adventures-of-Lovelace-and-Babbage/9780141981536) by Sydney Padua  
+[The Lucifer Effect : How Good People Turn Evil](https://www.bookdepository.com/Lucifer-Effect-Philip-Zimbardo/9781846041037) by Philip Zimbardo  
