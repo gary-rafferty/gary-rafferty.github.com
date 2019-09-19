@@ -93,6 +93,7 @@ Vegas](https://www.bookdepository.com/Addiction-by-Design-Natasha-Dow-Schull/978
 [The Passionate Programmer](https://www.bookdepository.com/The-Passionate-Programmer/9781934356340) by Chad Fowler  
 [The Pragmatic Programmer](https://www.bookdepository.com/Pragmatic-Programmer-Andrew-Hunt/9780201616224) by Andrew Hunt & Dave Thomas  
 [Beginning Scala](https://www.bookdepository.com/Beginning-Scala/9781430219897) by David Pollack  
+[Ship It: A Practical Guide To Successful Software Projects](https://www.bookdepository.com/Ship-It-Jared-Richardson/9780974514048) by Jared Richardson & William Gwaltney, Jr.  
 [Patterns of Enterprise Application Architecture](https://www.bookdepository.com/Patterns-of-Enterprise-Application-Architecture/9780321127426) by Martin Fowler  
 [The Thrilling Adventures of Lovelace and Babbage](https://www.bookdepository.com/The-Thrilling-Adventures-of-Lovelace-and-Babbage/9780141981536) by Sydney Padua  
 [The Lucifer Effect : How Good People Turn Evil](https://www.bookdepository.com/Lucifer-Effect-Philip-Zimbardo/9781846041037) by Philip Zimbardo  
