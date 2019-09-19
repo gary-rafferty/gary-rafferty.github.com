@@ -61,6 +61,7 @@ Vegas](https://www.bookdepository.com/Addiction-by-Design-Natasha-Dow-Schull/978
 [Cockpit Confidential](https://www.bookdepository.com/Cockpit-Confidential/9781492663966) by Patrick Smith  
 [Flash Boys](https://www.bookdepository.com/Flash-Boys/9780141981031) by Michael Lewis  
 [Silicon Docks - The Rise of Dublin as a Global Tech Hub](https://www.amazon.com/Silicon-Docks-Rise-Dublin-Global/dp/1909718874) by Pamela Newenham  
+[Building Great Software Engineering Teams](https://www.apress.com/gp/book/9781484211342) by Josh Tyler  
 [The Rules To Break](https://www.bookdepository.com/The-Rules-to-Break/9781292088129) by Richard Templar  
 [Start up & Run your own business](https://www.bookdepository.com/Start-Up-Run-Your-Own-Business-Jonathan-Reuvid/9780749460600) by Jonathan Reuvid  
 [The Business Battlecard](https://www.amazon.com/Business-Battlecard-Winning-Growing-Companies/dp/1904887287) by Paul O'Dea  
