@@ -26,6 +26,7 @@ Vegas](https://www.bookdepository.com/Addiction-by-Design-Natasha-Dow-Schull/978
 [Facing Mt Kenya](https://www.bookdepository.com/Facing-Mount-Kenya/9780394702100) by Jomo Kenyatta  
 [AWS Lambda: A Guide to serverless microservices](https://www.amazon.com/AWS-Lambda-Guide-Serverless-Microservices-ebook/dp/B016JOMAEE) by Matthew Fuller  
 [Practical Object Oriented Design in Ruby](https://www.bookdepository.com/Practical-Object-Oriented-Design-Ruby-Sandi-Metz/9780321721334) by Sandi Metz  
+[Ruby Science](https://github.com/thoughtbot/ruby-science) by Thoughtbot  
 [Black Mass. Whitey Bulger, The FBI and a Devil's Deal](https://www.bookdepository.com/Black-Mass/9781782116240) by Dick Lehr, Gerard O'Neill  
 [MH370 - by accident or design?](https://www.amazon.com/MH-370-Accident-Peter-Lee-ebook/dp/B00KR6QAL0) by Peter Lee  
 [Thirty seconds to impact](https://www.bookdepository.com/Thirty-Seconds-Impact-Peter-Burkhill/9781449088583) by Peter Burkhill  
