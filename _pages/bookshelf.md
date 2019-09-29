@@ -8,6 +8,8 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Man's Search For Meaning : The classic tribute to hope from the Holocaust](https://www.bookdepository.com/Mans-Search-For-Meaning-Viktor-E.-Frankl/9781846041242) by Viktor Frankl  
+[Talking to Strangers : What We Should Know about the People We Don't Know](https://www.bookdepository.com/Talking-Strangers-Malcolm-Gladwell/9780241351574) by Malcolm Gladwell  
 [The Mythical Man-Month : Essays on Software
 Engineering](https://www.bookdepository.com/Mythical-Man-Month-Frederick-P-Brooks-Jr/9780201835953) by Frederick P. Brooks Jr  
 [Chernobyl : History of a Tragedy](https://www.bookdepository.com/Chernobyl-Serhii-Plokhy/9780141988351) by Serhii Plokhy  
