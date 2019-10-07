@@ -8,11 +8,14 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Crucial Conversations: Tools for Talking When Stakes Are High](https://www.bookdepository.com/Crucial-Conversations-Tools-for-Talking-When-Stakes-Are-High-Second-Edition-Kerry-Patterson/9780071771320) by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
+[Touch : The Science of the Sense that Makes Us Human](https://www.bookdepository.com/Touch-David-J-Linden/9780241184066) by David J. Linden  
 [Man's Search For Meaning : The classic tribute to hope from the Holocaust](https://www.bookdepository.com/Mans-Search-For-Meaning-Viktor-E.-Frankl/9781846041242) by Viktor Frankl  
 [Talking to Strangers : What We Should Know about the People We Don't Know](https://www.bookdepository.com/Talking-Strangers-Malcolm-Gladwell/9780241351574) by Malcolm Gladwell  
 [The Mythical Man-Month : Essays on Software
 Engineering](https://www.bookdepository.com/Mythical-Man-Month-Frederick-P-Brooks-Jr/9780201835953) by Frederick P. Brooks Jr  
 [Chernobyl : History of a Tragedy](https://www.bookdepository.com/Chernobyl-Serhii-Plokhy/9780141988351) by Serhii Plokhy  
+[Kanban in Action](https://www.bookdepository.com/Kanban-in-Action-Marcus-Hammarberg/9781617291050) by Marcus Hammarbeg & Joakim Sunden  
 [Peopleware : Productive Projects and Teams](https://www.bookdepository.com/Peopleware-Tom-DeMarco/9780321934116) by Tom De Marco, Tim Lister  
 [Addiction By Design - Machine Gambling in Las
 Vegas](https://www.bookdepository.com/Addiction-by-Design-Natasha-Dow-Schull/9780691160887) by Natasha Dow Schull  
