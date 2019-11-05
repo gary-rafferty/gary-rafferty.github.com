@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Using Amazon Elasticsearch Service
-categories: [aws,elasticearch]
+categories: [aws]
 tags: [aws,elasticsearch,elk]
 ---
 
