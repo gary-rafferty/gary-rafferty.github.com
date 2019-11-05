@@ -15,10 +15,10 @@ analysis. It is comprised of <b>E</b>lasticsearch, <b>L</b>ogstash, and
 <b>K</b>ibana. Afterwards, Elastic.co introduced Beats (lightweight data shippers) and
 the stack was renamed to the Elastic stack.
 
-Beats are single-purpose data shippers.
-Logstash aggregates and ingests data.
-Elasticsearch indexes the data.
-Kibana is a flexible visualisation tool.
+* Beats are single-purpose data shippers
+* Logstash aggregates and ingests data
+* Elasticsearch indexes the data
+* Kibana is a flexible visualisation tool
 
 ### Motivation
 A little background on this one. We've recently been spending a lot of time
