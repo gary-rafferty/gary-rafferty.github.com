@@ -10,6 +10,7 @@ I glean a lot of reading ideas from other people's lists, so hopefully this give
 
 [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.bookdepository.com/Crucial-Conversations-Tools-for-Talking-When-Stakes-Are-High-Second-Edition-Kerry-Patterson/9780071771320) by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 [Touch : The Science of the Sense that Makes Us Human](https://www.bookdepository.com/Touch-David-J-Linden/9780241184066) by David J. Linden  
+[The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change](https://www.bookdepository.com/Manager-s-Path-Camille-Fournier/9781491973899) by Camille Fournier  
 [Man's Search For Meaning : The classic tribute to hope from the Holocaust](https://www.bookdepository.com/Mans-Search-For-Meaning-Viktor-E.-Frankl/9781846041242) by Viktor Frankl  
 [Talking to Strangers : What We Should Know about the People We Don't Know](https://www.bookdepository.com/Talking-Strangers-Malcolm-Gladwell/9780241351574) by Malcolm Gladwell  
 [The Mythical Man-Month : Essays on Software
