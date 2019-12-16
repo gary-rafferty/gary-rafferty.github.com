@@ -7,7 +7,7 @@ tags: [career,goals]
 
 End of year. Goal setting season is upon us.  
 A lot of people see this as little more than a box-ticking exercise, but don't
-fall into this trap. Goal setting season is a great oppotunity to sit down and assess your career.
+fall into this trap. Goal setting season is a great opportunity to sit down and assess your career.
 Think about where you are currently on your career progression, and more
 importantly, where you would like to be in the future. 
 Your goal achievements should help you to advance to the next step on the roadmap.  
@@ -61,7 +61,7 @@ can unearth some areas that you can build upon.
 Sometimes it helps to identify some traits and characteristics of the people you
 admire. Maybe you had a colleague who could estimate and plan work with precision, 
 or the manager who seems to able to communicate across departments
-with impeccable clarity. Use those characteristics and traits to idenfity skills that you would
+with impeccable clarity. Use those characteristics and traits to identify skills that you would
 like to hone, then set yourself some specific tasks to go about achieving that.
 
 Again, goals need to be SMART, and peppered throughout the year to foster continuous improvement and development
