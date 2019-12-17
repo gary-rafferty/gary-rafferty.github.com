@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CloudFront adventures
+title: CloudFront Adventures
 categories: [aws]
 tags: [aws, cloudfront]
 ---

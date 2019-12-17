@@ -1,13 +1,13 @@
 ---
 layout: single
-title: Goal setting
+title: Goal-setting
 categories: [career]
 tags: [career,goals]
 ---
 
-End of year. Goal setting season is upon us.  
+End of year. Goal-setting season is upon us.  
 A lot of people see this as little more than a box-ticking exercise, but don't
-fall into this trap. Goal setting season is a great opportunity to sit down and assess your career.
+fall into this trap. Goal-setting season is a great opportunity to sit down and assess your career.
 Think about where you are currently on your career progression, and more
 importantly, where you would like to be in the future. 
 Your goal achievements should help you to advance to the next step on the roadmap.  
