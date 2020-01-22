@@ -8,6 +8,7 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[The Body: A Guide For Occupants](https://www.bookdepository.com/The-Body-Bill-Bryson/9780857522405) by Bill Bryson  
 [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.bookdepository.com/Crucial-Conversations-Tools-for-Talking-When-Stakes-Are-High-Second-Edition-Kerry-Patterson/9780071771320) by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 [Touch : The Science of the Sense that Makes Us Human](https://www.bookdepository.com/Touch-David-J-Linden/9780241184066) by David J. Linden  
 [The Manager's Path: A Guide for Tech Leaders Navigating Growth & Change](https://www.bookdepository.com/Manager-s-Path-Camille-Fournier/9781491973899) by Camille Fournier  
