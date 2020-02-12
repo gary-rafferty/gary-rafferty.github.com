@@ -9,7 +9,9 @@ Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
 [The Uninhabitable Earth : A Story of the Future](https://www.bookdepository.com/Uninhabitable-Earth-David-Wallace-wells/9780141988870) by David Wallace-Wells  
-[Invisible Women : Exosing Data Bias in a World Designed For Men](https://www.bookdepository.com/Invisible-Women-Caroline-Criado-Perez/9781784741723) by Caroline Criado Perez  
+[Invisible Women : Exposing Data Bias in a World Designed For Men](https://www.bookdepository.com/Invisible-Women-Caroline-Criado-Perez/9781784741723) by Caroline Criado Perez  
+[The Making of a Manager : What to Do When Everyone Looks to You](https://www.bookdepository.com/Making-Manager-Zhuo-Julie/9780525540427) by Julie Zhuo  
+[A Programmer's Introduction to Mathematics](https://www.bookdepository.com/A-Programmer-s-Introduction-to-Mathematics/9781727125450) by Dr Jeremy Kun  
 [The Body: A Guide For Occupants](https://www.bookdepository.com/The-Body-Bill-Bryson/9780857522405) by Bill Bryson  
 [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.bookdepository.com/Crucial-Conversations-Tools-for-Talking-When-Stakes-Are-High-Second-Edition-Kerry-Patterson/9780071771320) by Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler  
 [Touch : The Science of the Sense that Makes Us Human](https://www.bookdepository.com/Touch-David-J-Linden/9780241184066) by David J. Linden  
