@@ -16,7 +16,7 @@ for the development and operations of the authoring and editing platform that
 powers the core content for guidebooks and digital.
 If you read Lonely Planet guidebooks, then the content that you read has passed through our platform.
 
-Previously, I was cofounder and CTO of
+Before Lonely Planet, I was cofounder and CTO of
 [PropelAd](https://angel.co/company/propelad), an ecommerce technology
 company. PropelAd used web & email first party data to power lifecycle remarketing campaigns
 for brands and online retailers. Our customers could target browsers who abandoned carts, engaged visitors, 
