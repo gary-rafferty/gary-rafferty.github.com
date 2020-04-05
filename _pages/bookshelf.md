@@ -8,6 +8,7 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.bookdepository.com/Designing-Data-Intensive-Applications-Martin-Kleppmann/9781449373320) by Martin Kleppman  
 [The Uninhabitable Earth : A Story of the Future](https://www.bookdepository.com/Uninhabitable-Earth-David-Wallace-wells/9780141988870) by David Wallace-Wells  
 [Invisible Women : Exposing Data Bias in a World Designed For Men](https://www.bookdepository.com/Invisible-Women-Caroline-Criado-Perez/9781784741723) by Caroline Criado Perez  
 [The Making of a Manager : What to Do When Everyone Looks to You](https://www.bookdepository.com/Making-Manager-Zhuo-Julie/9780525540427) by Julie Zhuo  
