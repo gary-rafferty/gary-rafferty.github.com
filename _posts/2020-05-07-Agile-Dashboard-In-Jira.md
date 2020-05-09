@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Jira dashboards for an agile project
-categories: [software]
-tags: [software agile jira scrum]
+categories: [software,agile]
+tags: [software,agile,jira,scrum]
 ---
 
 Jira dashboards are a useful way to take a quick peak into a project to get
