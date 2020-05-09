@@ -69,7 +69,7 @@ The __Created vs Resolved__ chart is a quick way to answer that question.
 
 ![creates vs resolved](/assets/images/jira/createdresolved.png)
 
-## Sprint Burndown
+## Sprint burndown
 The burndown chart is a quick visualisation of work remaining in the sprint and
 a way of forecasting the likelhood of achieving the goal.
 It is based on points and time remaining, taking into account non working days.
