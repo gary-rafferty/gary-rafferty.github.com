@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Jira dashboards for an agile project
+title: Jira Dashboards for an Agile Project
 categories: [software,agile]
 tags: [software,agile,jira,scrum]
 ---
