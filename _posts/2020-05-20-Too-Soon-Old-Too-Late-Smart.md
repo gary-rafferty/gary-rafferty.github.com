@@ -11,7 +11,7 @@ I recently read this little book by Gordon Livingston, MD.
 _Some_ interesting insights, and a relatively easy read, though certainly not mindblowing stuff.  
 In his opinion, the thirty true things that you need to know are.....
 
-1. If the map doesn't agre with the ground, the map is wrong.
+1. If the map doesn't agree with the ground, the map is wrong.
 2. We are what we do.
 3. It is difficult to remove by logic an idea not placed there by logic in the
 first place.
