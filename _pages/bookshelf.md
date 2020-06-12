@@ -8,6 +8,7 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[The Courage to Be Disliked](https://www.bookdepository.com/The-Courage-to-Be-Disliked-Ichiro-Kishimi/9781501197277) by Ichiro Kishimi, Fumitake Koga  
 [Maths on the Back of an Envelope : Clever Ways to (Roughly) Calculate Anything](https://www.bookdepository.com/Maths-on-Back-Envelope-Rob-Eastaway/9780008324582) by Rob Eastaway  
 [Too Soon Old, Too Late Smart : Thirty True Things You Need to Know Now](https://www.bookdepository.com/Too-Soon-Old-Too-Late-Smart-Gordon-Livingston/9780340839362) by Gordon Livingston  
 [Start with Why : How Great Leaders Inspire Everyone To Take Action](https://www.bookdepository.com/Start-With-Why-Simon-Sinek/9780241958223) by Simon Sinek  
