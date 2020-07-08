@@ -8,6 +8,8 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Skygods : The Fall of Pan Am](https://www.bookdepository.com/Skygods-Robert-Gandt/9780615611839) by Robert Gandt  
+[High Output Management](https://www.bookdepository.com/High-Output-Management/9780679762881) by Andrew Grove  
 [The Courage to Be Disliked](https://www.bookdepository.com/The-Courage-to-Be-Disliked-Ichiro-Kishimi/9781501197277) by Ichiro Kishimi, Fumitake Koga  
 [The Scrum Fieldbook : Faster performance. Better results. Starting now.](https://www.bookdepository.com/The-Scrum-Fieldbook/9781847942685) by J.J. Sutherland  
 [Maths on the Back of an Envelope : Clever Ways to (Roughly) Calculate Anything](https://www.bookdepository.com/Maths-on-Back-Envelope-Rob-Eastaway/9780008324582) by Rob Eastaway  
