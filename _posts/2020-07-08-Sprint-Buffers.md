@@ -41,14 +41,17 @@ average, the team accepted two points of unplanned work into each sprint. In
 those cases, we did not deliver all forecasted tasks.
 
 In the next planning session, we added a task named "Buffer" into the sprint.
-The task wast estimated at two points. We started the sprint as usual and left
+The task was estimated at two points. We started the sprint as usual and left
 the buffer task in the TODO state until some scope change was encountered.  
 
 > We've just found a spark in production and would like to extinguish it before it becomes a fire
 
 Hmmmmm
 
-> Ok, if the estimate does not exceed the buffer, then track it and play it
+> Ok, add it to the buffer, categorise it, and play it
 
 A simple, straightforward, and transparent mechanism to budget for unplanned
-effort whilst achieving the forecasted deliverables of the sprint.
+effort whilst achieving the forecasted deliverables of the sprint. Moreover, by
+tagging or labeling the incoming tasks, you will not only be measuring unplanned
+work, but you will also start to identify areas of consistent unplanned work.
+These are now opportunites for improvement.
