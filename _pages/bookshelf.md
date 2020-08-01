@@ -8,6 +8,9 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Between the World and Me : Notes on the First 150 Years in America](https://www.bookdepository.com/Between-World-Me-Ta-Nehisi-Coates/9780812993547) by Ta-Nehisi Coates  
+[Accelerate : Building and Scaling High Performing Technology Organizations](https://www.bookdepository.com/Accelerate/9781942788331) by Nicole Forsgren, Jez Humble, Gene Kim  
+[The Five Dysfunctions of a Team : An Illustrated Leadership Fable - Manga Edition](https://www.bookdepository.com/Five-Dysfunctions-Team-Patrick-M-Lencioni/9780470823385) by Patrick M. Lencioni  
 [Skygods : The Fall of Pan Am](https://www.bookdepository.com/Skygods-Robert-Gandt/9780615611839) by Robert Gandt  
 [High Output Management](https://www.bookdepository.com/High-Output-Management/9780679762881) by Andrew Grove  
 [The Courage to Be Disliked](https://www.bookdepository.com/The-Courage-to-Be-Disliked-Ichiro-Kishimi/9781501197277) by Ichiro Kishimi, Fumitake Koga  
@@ -119,3 +122,4 @@ Vegas](https://www.bookdepository.com/Addiction-by-Design-Natasha-Dow-Schull/978
 [Patterns of Enterprise Application Architecture](https://www.bookdepository.com/Patterns-of-Enterprise-Application-Architecture/9780321127426) by Martin Fowler  
 [The Thrilling Adventures of Lovelace and Babbage](https://www.bookdepository.com/The-Thrilling-Adventures-of-Lovelace-and-Babbage/9780141981536) by Sydney Padua  
 [The Lucifer Effect : How Good People Turn Evil](https://www.bookdepository.com/Lucifer-Effect-Philip-Zimbardo/9781846041037) by Philip Zimbardo  
+[Founders at Work : Stories of Startups' Early Days](https://www.bookdepository.com/Founders-at-Work-Jessica-Livingston/9781430210788) by Jessica Livingston  
