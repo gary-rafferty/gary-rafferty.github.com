@@ -9,6 +9,8 @@ Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
 [Team Topologies : Organizing Business and Technology Teams for Fast Flow](https://www.bookdepository.com/Team-Topologies/9781942788812) by Matthew Skelton, Manuel Pais  
+[the fearless organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth](https://www.amazon.co.uk/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247) by Amy C. Edmonson  
+[Agile Conversations](https://www.amazon.co.uk/Agile-Conversations-Transform-Your-Culture/dp/1942788975/) by Douglas Squirrel, Jeffrey Frederick  
 [The Phoenix Project : A Novel About IT, DevOps, and Helping Your Business Win](https://www.bookdepository.com/Phoenix-Project-George-Spafford/9780988262508) by George Spafford, Gene Kim, Kevin Behr  
 [Between the World and Me : Notes on the First 150 Years in America](https://www.bookdepository.com/Between-World-Me-Ta-Nehisi-Coates/9780812993547) by Ta-Nehisi Coates  
 [Too Much and Never Enough : How My Family Created the World's Most Dangerous Man](https://www.bookdepository.com/Too-Much-and-Never-Enough/9781471190148) by Mary L. Trump  
