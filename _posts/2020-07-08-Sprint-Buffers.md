@@ -44,11 +44,8 @@ In the next planning session, we added a task named "Buffer" into the sprint.
 The task was estimated at two points. We started the sprint as usual and left
 the buffer task in the TODO state until some scope change was encountered.  
 
-> We've just found a spark in production and would like to extinguish it before it becomes a fire
-
-Hmmmmm
-
-> Ok, add it to the buffer, categorise it, and play it
+When unplanned work came in and needed to be actioned before the end of the
+sprint, we would categorise it and add it within the buffer. 
 
 A simple, straightforward, and transparent mechanism to budget for unplanned
 effort whilst achieving the forecasted deliverables of the sprint. Moreover, by
