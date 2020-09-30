@@ -58,7 +58,7 @@ There is also a self-assessment that leaders can use to reflect on their actions
         - Have I made sure that people know that I do not have all the answers?
         - Have I emphasised that we can always learn more and that the situation that we are in required everyone to be curious and humble?
     - Proactive Enquiry
-        - How often do I ask good questions rather than rhetorical ones? How often do I as questions of others as rather than just expressing my opinion
+        - How often do I ask good questions rather than rhetorical ones? How often do I ask questions of others, rather than just expressing my opinion
     - Systems and Structures
         - Have I created structures to systematically elicit ideas and concerns?
         - Are these structures well designed to ensure a safe environment for open dialogue.
