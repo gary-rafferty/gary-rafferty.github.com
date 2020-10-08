@@ -8,6 +8,8 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Making Work Visible : Exposing Time Theft to Optimize Workflow](https://www.bookdepository.com/Making-Work-Visible/9781942788157) by Dominica Degrandis   
+[Doing Good Better : Effective Altruism and a Radical New Way to Make a Difference](https://www.bookdepository.com/Doing-Good-Better-Dr-William-MacAskill/9781783350513) by Dr William MacAskill   
 [Team Topologies : Organizing Business and Technology Teams for Fast Flow](https://www.bookdepository.com/Team-Topologies/9781942788812) by Matthew Skelton, Manuel Pais  
 [the fearless organization: Creating Psychological Safety in the Workplace for Learning, Innovation, and Growth](https://www.amazon.co.uk/Fearless-Organization-Psychological-Workplace-Innovation/dp/1119477247) by Amy C. Edmonson  
 [Agile Conversations](https://www.amazon.co.uk/Agile-Conversations-Transform-Your-Culture/dp/1942788975/) by Douglas Squirrel, Jeffrey Frederick  
