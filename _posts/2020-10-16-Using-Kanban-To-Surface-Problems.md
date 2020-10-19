@@ -12,13 +12,13 @@ The word itself, Kanban, means signal, and was designed to provide a visual over
 
 > “The aim of Kanban is to make troubles come to the surface.” - Taiichi Ohno.
 
-Once problems became visible, Toyota were able to quickly identify them and fix them. As a direct result, Toyota’s performance continually improved until it greatly exceeded the competition, and now, it has a reputation for delivering high quality products on time.
+Once problems became visible, Toyota were able to quickly identify them and fix them. Just-in-time production helped to minimize waste, and continuous improvement kept Toyota striving for better. As a direct result, the bar was constantly raised until it greatly exceeded the competition, and now, Toyota has a reputation for delivering high quality products on time. "... the best built cars in the world".
 
 Sidenote: Somewhere between 30% and 50% of the neurons in your brain are dedicated to visual processing. As humans, we can process more information by looking at imagery than by text alone. A picture tells a thousand words.  
 The following section looks at the picture of software development, and explains why visualising problems makes them easier to comprehend and hone in on.
 
 ## Kanban in Software Development
-When delivering software, most teams will use a board such as Trello, or Zenhub, or even sticky notes on the wall, to visualise their deliverables and roadmap.  
+When delivering software, most teams will use a board such as Trello, or Zenhub, or even sticky notes on the wall, to observe their work-in-progress and the upcoming roadmap.  
 This provides an overview of task progress, and a level of transparency to stakeholders, who can, at a glance, see what stage their request is currently at. In addition to transparency for lead time, by visualising work, teams can follow Toyota’s lead and see how their delivery flows.  
 
 **Remember that a high performing engineering team should deliver a constant flow of value.**  
@@ -32,40 +32,42 @@ In her book, Making Work Visible, author Dominica DeGrandis identifies five prob
 - Conflicting Priorities
 - Neglected Work
 
-Each of these problems are preventing your team from getting work done. Fortunately, each can be measured and fixed. Let’s dive a little deeper into each.
+Each of these problems are preventing your team from getting work done to the very best of their abilities. Fortunately, each can be measured and fixed. Let’s dive a little deeper into each.
 
 ### Too Much WIP
 #### Problem
 WIP stands for Work in Progress, and refers to any work that has been started but not yet finished. Usually denoted by a card or task in the “Doing” or “In Progress” column.  
 Having too much incomplete work leads to a number of problems. The lead time (the time taken from customer request, to customer delivery) will increase. The quality of the delivered work can suffer due to engineers being required to context switch between tasks. The cycle time (the time taken from an engineer picking up a piece of work, to completing it) will also increase.  
   
-The relationship between WIP and cycle time is described by Little’s Law. Little’s Law states that  
+The relationship between WIP and cycle time is described by adapting [Little’s Law](https://en.wikipedia.org/wiki/Little%27s_law). Little’s Law states that  
+  
 `AVG CYCLE TIME = AVG WIP / AVG THROUGHPUT`.  
+  
 Put simply, higher WIP means that other work sits idle for longer.
 
 #### Solution
-Tackling too much WIP is actually quite simple. Stop taking on work. To pinch a quote from the authors of Kanban In Action 
+Tackling too much WIP is actually quite simple. Stop taking on work. To borrow a quote from the authors of Kanban In Action 
 > “Stop Starting, Start Finishing”.
 
 The Kanban mechanism for implementing this is to use a WIP limit.  
 WIP limits are a limit on the number of items that can be in progress at the same time. Most often, limits are set at the top of the column, but in some cases, you may want to set limits per swimlane, or per service-class (bug/urgent/feature etc).
-Items can be pulled into a column provided that the limit will not be breached.  
-There is no silver bullet for what the limit should be, and it’s important to recognise that you may not get this 100% right the very first time, but as a starting point, a rule of thumb can be one item per engineer, and a small bit of wiggle room.  
+Items can be pulled into a column provided that the limit will not be breached. NB: The usage of **pull** instead of **push** is signifigant, and illustrates how work is pulled into progress when there is capacity, and not pushed in simply because there is demand.  
+There is no elixir-vitae for what the limit itself should be, and it’s important to recognise that you may not get this 100% right the very first time, but as a starting point, a rule of thumb can be one item per engineer, and a small bit of wiggle room. Adjusted  appropriately for pair programming.  
   
-Use the WIP limit to apply the necessary tension to the system to enable people to finish work.  
+Use the WIP limit to apply the necessary traction to the system that enables people to finish work.  
 
-Another sidenote: It is very important that all work is visible on the board. Invisible work has a high cost and this needs to be visible to all. A helpful way to surface this type of work is to ask the following question at standup. “Is anybody working on something that is not on the board”?
+Another sidenote: It is incredibly important that all work is visible on the board. Invisible work has a high cost and this needs to be made visible to all. A helpful way to highlught this type of work is to ask the following question at standup. “Is anybody working on something that is not on the board”?
 If so, this work needs to be categorised and made visible. 
 
 ### Unknown Dependencies
 #### Problem
-We want our development teams to be as autonomous as possible. A stream-aligned team is a team that is aligned to a single value stream. A stream being a continuous flow of work or value to a business domain.  
+We want our engineering teams to be as autonomous as possible. A stream-aligned team is one that is aligned to a single value stream. A stream being a continuous flow of work or value to a business domain.  
 In an ideal world, a team is fully empowered and enabled to deliver streams of value end to end. In a non-ideal world, however, there are typically a number of dependencies along the way. This is often what leads to missed deadlines and delivery delays.  
 
 > “Every dependency doubles your chance of being delayed or late” - Troy Magennis.
 
 For the arithmetic fans, this translates to 2n (two to the power of n, where n is the number of dependencies).
-I recently discovered an awesome way to visualise the chance of success for dependencies using a basic boolean logic table.  
+I recently read about an awesome way to visualise the chance of success for dependencies using a basic boolean logic table.  
 In the following table, we are visualising a three dependency chart. Three teams required to deliver a piece of value. Green cells indicate success, and white indicate failures (delays, or bugs etc).  
 ![dependencies](/assets/images/kanban/deps.png)
 
@@ -80,15 +82,16 @@ In addition to using labels, another option is to use a swimlane for tasks with 
 
 ### Unplanned Work
 #### Problem
-Unplanned work is one of the biggest causes of unpredictability to the flow of work. If you lose predictability, then your expectations on delivery can be thrown out the window. Unplanned work comes in a variety of shapes and sizes, but typically it presents itself in the form of something on fire, or an imminent deadline that ‘can’t be missed’. Whatever the form, it is something that was not accounted for, that eats into your planned work.  
+Unplanned work is one of the biggest causes of unpredictability to the flow of work. If you lose predictability, then your expectations on delivery can be thrown out the window. Without predicability, there's no way to confidently answer your customer's first question; "When will it be ready?".  
+Unplanned work comes in a variety of shapes and sizes, but typically it presents itself in the form of something on fire, or an imminent deadline that ‘can’t be missed’. Whatever the form, it is something that was not accounted for, then that eats into your planned work.  
 Your planned work is your value add,... your raison d'etre. 
 #### Solution
 I’ve [wrote about buffering]({% post_url 2020-07-08-Sprint-Buffers %}) before in the context of Scrum sprints, and really, the solution here is much the same. Acknowledge that shit happens, that things will fall over, and incidents occur. Once you accept that these things will happen, then you need to plan for it, by adding capacity to the system.  
 How much capacity to add? Well, similar to choosing WIP limits, it depends.  
 Start by looking at how much time was spent on unplanned work in the last week or month. Now, budget for that amount. If you are having problems quantifying past unplanned work, don’t worry about it. Start tracking it going forward.  
-Perhaps use a high-level label like “Unplanned” for incoming items. Adding more granularity will help you to focus your future efforts on particular problem areas. For example, if 75% of unplanned work was giving CPR to a dying DB, then replacing/fixing should bump up the backlog priority.  
+Perhaps use a high-level label like “Unplanned” for incoming items, or use a different coloured sticky note. Of course, adding more granularity will help you to focus your future efforts on particular problem areas. For example, if 75% of unplanned work was giving CPR to a dying DB, then replacing/fixing that DB should bump up the backlog priority.  
   
-With regards to your Kanban flow, you can use swimlanes or labels to visualise unplanned work. Monitor this over time, and reduce it as best you can.
+With regards to your Kanban visual control, you can use swimlanes or labels to visualise unplanned work. Monitor this over time, and reduce it as best you can.
 Another common mechanism is to introduce an ‘Expedite’ swimlane, with its own upper limit. Use this only for actual emergencies that need urgent attention.
 
 ### Conflicting Priorities
@@ -114,15 +117,15 @@ The backlog should be a single source of truth. Avoid multiple backlogs (or back
   
 Invest heavily in your planning sessions. Team members not only need to know what to do, but more important, why they are doing it. What is the value add? What are we achieving by completing this task? Why is this piece of work more important than another?  
 
-Determine what cadence works best for your team, but the goldilocks of planning cadence is often referred to as just-in-time planning. 
-Just in time planning happens just when it’s needed. It helps to prevent planning too far in advance (less agile), and planning too often (meeting overload). Here’s a simple way of doing that.  
-Place an ‘Order point’ in your backlog. In this example, pinched from Kanban In Action, the Inbox column represents the backlog. The team pulls work into play until it reaches the order point. Once reaching the order point, the team contacts the product manager or relevant stakeholders to organise another planning session. The team can continue to work unblocked in the meantime.
+Determine what works best for your team, but the goldilocks of planning cadence is often referred to as just-in-time planning. 
+Just in time planning happens just when it’s needed. It helps to prevent planning too far in advance (less agile), and planning too often (meeting overload). Kanban in Action illustrates a simple way of doing that.  
+Place an ‘Order point’ in your backlog. In this example, the Inbox column represents the backlog. The team pulls work into play until it reaches the order point. Once reaching the order point, the team contacts the product manager or relevant stakeholders to organise another planning session. The team can continue to work unblocked in the meantime.
 
-![dependencies](/assets/images/kanban/orderpoint.png)
+![jit-planning](/assets/images/kanban/orderpoint.png)
 
 ### Neglected Work
 #### Problem
-Neglected work lingers around consuming space and bandwidth. Quite often it is invisible, ignored up until the point that it becomes a fire. Typically, the most common type of neglected work is tech debt, bugs, quality improvements, upgrades etc.
+Neglected work lingers around consuming space and bandwidth. Quite often it is invisible, ignored up until the point that it becomes a fire. Usually, the most common type of neglected work is technical debt, bugs/defects, quality improvements, upgrades etc.
 The less sexy the task, the more likely it is to be neglected.
 > “Let’s just ship what we have and we can clean it up when we have more time.” 
 
