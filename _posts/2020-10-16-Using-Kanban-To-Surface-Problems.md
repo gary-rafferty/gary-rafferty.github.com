@@ -56,7 +56,7 @@ There is no elixir-vitae for what the limit itself should be, and it’s importa
   
 Use the WIP limit to apply the necessary traction to the system that enables people to finish work.  
 
-Another sidenote: It is incredibly important that all work is visible on the board. Invisible work has a high cost and this needs to be made visible to all. A helpful way to highlught this type of work is to ask the following question at standup. “Is anybody working on something that is not on the board”?
+Another sidenote: It is incredibly important that all work is visible on the board. Invisible work has a high cost and this needs to be made visible to all. A helpful way to highlight this type of work is to ask the following question at standup. “Is anybody working on something that is not on the board”?
 If so, this work needs to be categorised and made visible. 
 
 ### Unknown Dependencies
