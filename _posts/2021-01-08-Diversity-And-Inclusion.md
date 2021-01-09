@@ -46,14 +46,14 @@ shaping the Zalando of the future, so this was a natural book to begin with.
 The book shines a spotlight onto the hidden cracks that women are falling into each day. Often forgotten, in a world designed by, and for, men.
 
 Thermostat Wars! I can assume with some amount of confidence that most of us have worked in an office where there were constant clashes over the temperature. 
-I can remember numerous occasions of typing away in a t-shirt whilst one of my female colleagues was wrapped in a scarf or blanket. 
-Do I run hot, does she run cold? Well, actually, yes, we run differently (excuse the phrase). The formula to determine the ideal office temperature 
-was designed around the metabolic resting rate of a 70kg, 40 year old man. Women, on the other hand, have a slower metabolism, which means that 
-the typical office temperature is five degrees too cold for a woman. Not an ideal environment to work comfortably.
+I can remember numerous occasions of working in a t-shirt whilst one of my female colleagues was wrapped in a scarf or blanket.  
+Do I run hot, does she run cold? Well, actually, yes, we run differently (excuse the phrase).  
+The formula to determine the ideal office temperature was designed around the metabolic resting rate of a 70kg, 40 year old man. Women, on the other hand, have a slower metabolism, which means that  the typical office temperature is five degrees too cold for a woman.  
+Not an ideal environment to work comfortably.
 
 Office temperature aside, let’s go one step back to the office commute. If you are a woman, and you drive to the office, if you are unfortunate enough 
 to be involved in an accident, then you have a 50% higher risk of being seriously injured. Why, you might ask? 
-Well, it boils down to the fact that car manufacturers are designing safety mechanisms around the dimensions and physics of the male anatomy. Crazy, right?
+It boils down to the fact that car manufacturers are designing safety mechanisms around the dimensions and physics of the male anatomy. Crazy, right?
 Well, car safety mechanisms aren’t the only thing built around us men,... smartphones and tools are designed for our typically larger hands, 
 making them less usable and more uncomfortable for women. Voice recognition is usually designed and tested on male voices, leading to a poorer service and 
 diminished user experience. 
@@ -70,10 +70,12 @@ understanding.
 ### Additional Resources
 
 Stepping back from the book, and looking more holistically at D&I, I have had a number of opportunities in the past year here in Zalando to improve my 
-understanding and awareness of the topic. Diversity workshops helped to illustrate the benefits of building a diverse workforce. 
-UnBias (Unconscious Bias) training helped me to highlight any blind-spots by understanding how the brain processe information, and how that shortcut processing 
-can lead to unconscious bias. Internal guilds and groups have helped to promote and share resources for betterment. 
-Company wide feedback surveys help us to understand how we are doing and to keep a finger on the culture and engagement pulse.
+understanding and awareness of the topic.  
+- Diversity workshops helped to illustrate the benefits of building a diverse workforce. 
+- UnBias (Unconscious Bias) training helped me to highlight any blind-spots by understanding how the brain processes information, and how that shortcut-processing 
+can lead to unconscious bias. 
+- Internal guilds and groups have helped to promote and share resources for betterment. 
+- Company wide feedback surveys help us to understand how we are doing and to keep a finger on the culture and engagement pulse.
 
 
 For  those of you who feel like they (and their companies) could be doing more in this space, then the [Inclusive Leadership](https://www.amazon.co.uk/Inclusive-Leadership-Definitive-Developing-Executing/dp/1292112727/) 
