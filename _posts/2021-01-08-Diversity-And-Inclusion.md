@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Diversity and Inclusion
+title: Exploring Diversity and Inclusion
 categories: [learning]
 tags: [diversity,inclusion,reading]
 ---
