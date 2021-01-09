@@ -8,6 +8,8 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Boeing Versus Airbus: The Inside Story of the Greatest International Competition in Business](https://www.amazon.co.uk/Boeing-Versus-Airbus-International-Competition/dp/1400078725) by John Newhouse  
+[The Sheltering Sky](https://www.amazon.co.uk/Sheltering-Sky-Penguin-Modern-Classics/dp/0141187778/) by Paul Bowles  
 [The Interpretation of Dreams](https://www.bookdepository.com/Interpretation-Dreams-Sigmund-Freud/9780199537587) by Sigmund Freud  
 [Inclusive Leadership: The Definitive Guide to Developing and Executing an Impactful Diversity and Inclusion Strategy](https://www.bookdepository.com/Inclusive-Leadership-The-Definitive-Guide-to-Developing-and-Executing-an-Impactful-Diversity-and-Inclusion-Strategy-Charlotte-Sweeney/9781292112725) by Charlotte Sweeney, Fleur Bothwick  
 [The Box : How the Shipping Container Made the World Smaller and the World Economy](https://www.amazon.co.uk/Box-Shipping-Container-Smaller-Economy/dp/0691170819/) by Marc Levinson  
