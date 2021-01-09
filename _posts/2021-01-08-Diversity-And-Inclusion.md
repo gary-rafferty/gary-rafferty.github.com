@@ -53,7 +53,7 @@ Not an ideal environment to work comfortably.
 
 Office temperature aside, let’s go one step back to the office commute. If you are a woman, and you drive to the office, if you are unfortunate enough 
 to be involved in an accident, then you have a 50% higher risk of being seriously injured. Why, you might ask?  
-It boils down to the fact that car manufacturers are designing safety mechanisms around the dimensions and physics of the male anatomy.
+It boils down to the fact that car manufacturers are designing safety mechanisms around the dimensions and physics of the male anatomy.  
 Car safety mechanisms aren’t the only thing built around us men,... smartphones and tools are designed for our typically larger hands, 
 making them less usable and more uncomfortable for women. Voice recognition is usually designed and tested on male voices, leading to a poorer service and 
 diminished user experience. 
