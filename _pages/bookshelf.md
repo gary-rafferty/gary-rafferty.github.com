@@ -8,8 +8,14 @@ author_profile: false
 Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
+[Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/0007547994/) by Brian Christian, Tom Griffiths  
+[Eat The Frog](https://www.amazon.co.uk/Eat-That-Frog-Important-Things/dp/1444765426) by Brian Tracy  
+[The Coaching Habit: Say Less, Ask More & Change the Way Your Lead Forever](https://www.amazon.co.uk/Coaching-Habit-Less-Change-Forever/dp/0978440749/) by Michael Bungay Stanier  
+[No Hard Feelings: Emotions at Work and How They Help Us Succeed](https://www.amazon.co.uk/No-Hard-Feelings-Emotions-Succeed/dp/0241328705/) by Liz Fosslien, Mollie West Duffy  
 [Boeing Versus Airbus: The Inside Story of the Greatest International Competition in Business](https://www.amazon.co.uk/Boeing-Versus-Airbus-International-Competition/dp/1400078725) by John Newhouse  
 [The Sheltering Sky](https://www.amazon.co.uk/Sheltering-Sky-Penguin-Modern-Classics/dp/0141187778/) by Paul Bowles  
+[Let It Come Down](https://www.amazon.co.uk/Come-Down-Penguin-Modern-Classics/dp/0141182202) by Paul Bowles  
+[Collected Stories](https://www.amazon.co.uk/Collected-Stories-Penguin-Modern-Classics/dp/014119135X) by Paul Bowles  
 [The Interpretation of Dreams](https://www.bookdepository.com/Interpretation-Dreams-Sigmund-Freud/9780199537587) by Sigmund Freud  
 [Inclusive Leadership: The Definitive Guide to Developing and Executing an Impactful Diversity and Inclusion Strategy](https://www.bookdepository.com/Inclusive-Leadership-The-Definitive-Guide-to-Developing-and-Executing-an-Impactful-Diversity-and-Inclusion-Strategy-Charlotte-Sweeney/9781292112725) by Charlotte Sweeney, Fleur Bothwick  
 [The Box : How the Shipping Container Made the World Smaller and the World Economy](https://www.amazon.co.uk/Box-Shipping-Container-Smaller-Economy/dp/0691170819/) by Marc Levinson  
