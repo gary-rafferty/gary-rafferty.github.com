@@ -9,7 +9,7 @@ Books I've read, in no particular order.
 I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
 
 [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/0007547994/) by Brian Christian, Tom Griffiths  
-[Eat The Frog](https://www.amazon.co.uk/Eat-That-Frog-Important-Things/dp/1444765426) by Brian Tracy  
+[Eat That Frog! : Get More Of The Important Things Done Today](https://www.amazon.co.uk/Eat-That-Frog-Important-Things/dp/1444765426) by Brian Tracy  
 [The Coaching Habit: Say Less, Ask More & Change the Way Your Lead Forever](https://www.amazon.co.uk/Coaching-Habit-Less-Change-Forever/dp/0978440749/) by Michael Bungay Stanier  
 [No Hard Feelings: Emotions at Work and How They Help Us Succeed](https://www.amazon.co.uk/No-Hard-Feelings-Emotions-Succeed/dp/0241328705/) by Liz Fosslien, Mollie West Duffy  
 [Boeing Versus Airbus: The Inside Story of the Greatest International Competition in Business](https://www.amazon.co.uk/Boeing-Versus-Airbus-International-Competition/dp/1400078725) by John Newhouse  
