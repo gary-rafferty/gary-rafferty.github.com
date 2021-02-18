@@ -5,8 +5,6 @@ categories: [personal]
 tags: [zalando]
 ---
 
-## Reflecting on one year with Zalando
-
 Today, February 17th, marks my one year anniversary with Zalando, and aptly, is a nice time to reflect on that year. 
 
 ### Why Zalando
