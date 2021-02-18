@@ -7,6 +7,8 @@ tags: [zalando]
 
 Today, February 17th, marks my one year anniversary with Zalando, and aptly, is a nice time to reflect on that year. 
 
+![macbook](/assets/images/zalando/zalando2020.jpg)
+
 ### Why Zalando
 I joined Zalando for a number of reasons, but they can be distilled down to two. **People & Projects**.  
 I wanted to work with people who would inspire, challenge, drive, and enable me. I wanted to work on exciting projects that add value to business and disrupt industries.  
