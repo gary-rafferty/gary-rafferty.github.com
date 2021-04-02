@@ -6,8 +6,17 @@ author_profile: false
 ---
 
 Books I've read, in no particular order.
-I glean a lot of reading ideas from other people's lists, so hopefully this gives you some ideas.
+I glean a lot of reading ideas from other people's lists, so hopefully this gives you some.  
+  
+I've recently started using [Goodreads](https://www.goodreads.com/user/show/128949135-gary-rafferty). Please head over there for more up to date recommendations.
 
+[Fixing Your Scrum: Practical Solutions to Common Scrum Problems](https://www.amazon.co.uk/gp/product/1680506978) by Ryan Ripley, Todd Miller  
+[Software Estimation Without Guessing: Effective Planning in an Imperfect World](https://www.amazon.co.uk/gp/product/1680506986/) by George Dinwiddie  
+[The Feedback Imperative: How to Give Everyday Feedback to Speed Up](https://www.amazon.co.uk/Feedback-Imperative-Everyday-Speed-Success/dp/1938416651/) by Anna Carroll  
+[Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.amazon.co.uk/Digital-Minimalism-Living-Better-Technology/dp/0241341132/) by Cal Newport  
+[Klara And The Sun](https://www.amazon.co.uk/Klara-Sun-hardback-Kazuo-Ishiguro/dp/057136487X/) by Kazuo Ishiguro  
+[The Stranger](https://www.amazon.co.uk/Stranger-Vintage-International-Albert-Camus/dp/0679720200/) by Albert Camus  
+[COVID-19: The Pandemic that Never Should Have Happened and How to Stop the Next One](https://www.amazon.co.uk/Covid-19-Pandemic-Never-Should-Happened/dp/0306924242) by Debora MacKenzie  
 [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.co.uk/Algorithms-Live-Computer-Science-Decisions/dp/0007547994/) by Brian Christian, Tom Griffiths  
 [Eat That Frog! : Get More Of The Important Things Done Today](https://www.amazon.co.uk/Eat-That-Frog-Important-Things/dp/1444765426) by Brian Tracy  
 [The Coaching Habit: Say Less, Ask More & Change the Way Your Lead Forever](https://www.amazon.co.uk/Coaching-Habit-Less-Change-Forever/dp/0978440749/) by Michael Bungay Stanier  
