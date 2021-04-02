@@ -25,6 +25,7 @@ Going forward, I would like you to encourage your peers to contribute, and to be
 
 ## COIN
 COIN is a helpful one for providing similar feedback, but framed against a goal or objective of the receiver. The acronym stands for Connection, Observation, Impact, Next Steps.  
+  
 This one is helpful for referencing a personal connection, and usually requires a closer relationship.
 
 ### Connection
