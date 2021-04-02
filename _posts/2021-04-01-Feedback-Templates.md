@@ -9,7 +9,9 @@ Some notes on two different feedback templates, and my 2c on when to opt for one
 Almost identical, they differ only on how the stage is opened and closed. 
 
 ## SBIN
-SBIN is a helpful one for providing feedback that is directly linked to a particular situation. The acronym stands for Situation, Behaviour, Impact, Next Steps.   Personally, I find this helpful for providing behavioural feedback. 
+SBIN is a helpful one for providing feedback that is directly linked to a particular situation. The acronym stands for Situation, Behaviour, Impact, Next Steps.   
+
+Personally, I find this helpful for providing behavioural feedback. 
 Use this one when referencing a particular setting, such as a meeting, or team event. Also relevant when you do not have a close relationship with the receiver.
 
 ### Situation
