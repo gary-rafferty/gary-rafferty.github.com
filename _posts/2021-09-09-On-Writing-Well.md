@@ -12,7 +12,7 @@ These are my notes.
 
 ## The Transaction
 At the heart of all great, non-fiction writing, is a personal transaction that projects the passion and nature of the writer.
-Each of us has our own background and experiences which shapes the stores we tell. Often, this is what captivates the reader. 
+Each of us has our own background and experiences which shape the stories that we tell. Often, this is what captivates the reader. 
 
 ## Simplicity
 The best sentences are devoid of words and jargon that do not add value. We should strive to distill our sentences down to the bare minimum 
