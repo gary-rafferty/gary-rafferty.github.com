@@ -46,7 +46,7 @@ Deweed words and phrases that do not serve any purpose. The author gives some co
  - Referred to as vs Called
  - Numerous vs Many
 
-Inspect every word and critically assess if it adds value. 
+Inspect every word, critically assessing if it adds value. 
 
 ## Style
 Embrace your own style. When you try to sound like somebody else, you will lose that personal connection, and readers will pick up on the ingenuity.
