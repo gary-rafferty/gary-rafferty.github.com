@@ -6,7 +6,9 @@ tags: [interviewing]
 ---
 
 Software Engineering is an incredibly rewarding and satisfying career choice. On a daily basis, you get to flex your creative muscles to solve complex 
-problems across a vast array of industries and domains. You get to work in an incredibly diverse space, with continuous learning opportunities at your fingertips.   
+problems across a vast array of industries and domains. You get to work in an incredibly diverse space, with continuous learning opportunities 
+at your fingertips.  
+  
 Getting a foot in the door, however, can be difficult. The bar is high and there is a lot of competition.  
 At times, the process can feel overwhelming. You find yourself immersed in recruitment phone calls, screening sessions, multiple final round interviews, 
 and in most cases, working on a take home test in your own time.  
@@ -22,12 +24,12 @@ most entry level software engineering positions.
 I mentioned some stages of a typical hiring funnel in the opening section. Every company will be slightly different, and depending on their scale and size, 
 the funnel might be bigger or smaller, but here’s how it might look.
 
-<img src="/assets/images/funnel/funnel.png" width="30%" />
+<img src="/assets/images/funnel/funnel.png" width="40%" />
 
 You will begin with a coding exercise. If successful, you will then speak with somebody in HR to learn more about the company and the role. 
 The next stage might be to speak with the hiring manager - at which point you will learn more about the team and the domain that you might expect to be working on. 
-Moreover, this round is typically assessing culture and team fit. If successful, multiple final round interviews will probe deeper into specific topics s
-uch as data structures and algorithms, general technology and knowledge . If this goes well, then it proceeds to the offer stage. 
+Moreover, this round is typically assessing culture and team fit. If successful, multiple final round interviews will probe deeper into specific topics such as data structures and algorithms, general technology and knowledge. If all this goes well, then it proceeds to the offer stage.  
+  
 The end to end process covers a lot of ground.
 
 As Desmond Tutu once said 
