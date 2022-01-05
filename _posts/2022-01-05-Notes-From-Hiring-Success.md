@@ -5,6 +5,8 @@ categories: [software]
 tags: [hiring]
 ---
 
+Notes from [Hiring Success : How Visionary CEOs Compete for the Best Talent](https://www.amazon.co.uk/Hiring-Success-Visionary-Compete-Talent/dp/1544506899/)
+
 Stop measuring and relying upon Time-to-Hire and Cost-per-Hire metrics. They are not indicators of successful hiring.  
 We need three metrics to accurately measure our hiring success.
 
@@ -30,6 +32,5 @@ Measures job fit, and should not be derived from your end of year performance re
 3. _NHS = (% of strong fits - % poor fits) x 100_, where poor fits = {0…6} and strong = {9,10} 
 
 ## Examples
-
-<img src="/assets/images/scorecard/hiringscorecard.jpeg" width=="50%" />
+<img src="/assets/images/scorecard/hiringscorecard.jpeg" width="50%" />
 
