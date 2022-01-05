@@ -7,7 +7,7 @@ tags: [hiring]
 
 Notes from [Hiring Success : How Visionary CEOs Compete for the Best Talent](https://www.amazon.co.uk/Hiring-Success-Visionary-Compete-Talent/dp/1544506899/). 
 
-Stop measuring and relying upon Time-to-Hire and Cost-per-Hire metrics. They are not indicators of successful hiring.  
+Stop relying on Time-to-Hire and Cost-per-Hire metrics. They are not indicators of successful hiring.  
 We need three metrics to accurately measure our hiring success.
 
 1. Hiring Budget
