@@ -32,5 +32,5 @@ Measures job fit, and should not be derived from your end of year performance re
 3. _NHS = (% of strong fits - % poor fits) x 100_, where poor fits = {0…6} and strong = {9,10} 
 
 ## Examples
-<img src="/assets/images/scorecard/hiringscorecard.jpeg" width="50%" />
+<img src="/assets/images/scorecard/hiringscorecard.jpeg" />
 
