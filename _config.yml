@@ -14,6 +14,8 @@ words_per_minute         : 200
 google_site_verification : 'AU2WGXIWwLDomeI45iRYfLSIjqRnrNJ3FWJqEQwsqxA'
 
 # Analytics
+google_analytics         : "G-0SVTN5FPFP"
+
 analytics:
   provider               : "google"
   google:
