@@ -13,14 +13,6 @@ repository               : "gary-rafferty/gary-rafferty.github.com"
 words_per_minute         : 200
 google_site_verification : 'AU2WGXIWwLDomeI45iRYfLSIjqRnrNJ3FWJqEQwsqxA'
 
-# Analytics
-google_analytics         : "G-0SVTN5FPFP"
-
-analytics:
-  provider               : "google"
-  google:
-    tracking_id          : 'UA-26119074-1'
-
 # Site Author
 author:
   name    : "Gary Rafferty"
