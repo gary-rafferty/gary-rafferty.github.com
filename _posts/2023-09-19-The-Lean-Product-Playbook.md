@@ -43,7 +43,7 @@ Importance: A measure of how important a particular customer need is.
 Satisfaction: Satisfaction level with any existing product.
 	Use a 7 point scale from negative to positive*  
 
-Research has shown that 5 point scales are best for unipolar, but 7 point is best for bipolar.
+\*Research has shown that 5 point scales are best for unipolar, but 7 point is best for bipolar.
 
 ![satisfaction](/assets/images/lean/satisfaction.png)
 
