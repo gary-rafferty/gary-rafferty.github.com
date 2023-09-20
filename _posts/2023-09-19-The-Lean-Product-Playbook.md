@@ -17,7 +17,9 @@ The term was originally coined by Marc Andreeson [back in 2007](https://pmarchiv
 
 **Product**: A specific offering of functionality or features that meets the needs of the customer.
 
-Success criteria depends on how well your product (top three layers) satisfies the market (bottom two layers)?
+Success criteria depends on how well your product (top three layers) satisfies the market (bottom two layers)
+
+![the-lean-product-pyramid](/assets/images/lean/pyramid.jpeg)
 
 ## The Lean Product Process
 
