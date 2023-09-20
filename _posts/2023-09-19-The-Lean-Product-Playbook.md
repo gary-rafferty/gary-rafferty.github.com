@@ -5,7 +5,7 @@ categories: [writing]
 tags: [writing]
 ---
 
-Some notes from a recent read of [The Lean Product Playbook]([url](https://www.amazon.co.uk/Lean-Product-Playbook-Innovate-Products/dp/1118960874)).
+Some notes from a recent read of [The Lean Product Playbook](https://www.amazon.co.uk/Lean-Product-Playbook-Innovate-Products/dp/1118960874).
 
 ## Core Concepts
 
