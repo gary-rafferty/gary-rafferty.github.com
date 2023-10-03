@@ -9,7 +9,7 @@ The most recent issue (September - October) of [Harvard Business Review](https:/
 piece on reskilling. The article discusses how the rapid acceleration, and advancement, of technology will see knowledge workers 
 adapting how they work and operate in their fields.  
 
-The authors highlight **five paradigm shifts** that were observed across a sample set of companies that are highly investing in reskilling initiatives.  
+The authors highlight **five paradigm shifts** that were observed across a sample set of companies that are heavily investing in reskilling initiatives.  
 
 1. Reskilling is a Strategic Imperative.
 2. Reskilling is the Responsibility of Every Leader/Manager.
