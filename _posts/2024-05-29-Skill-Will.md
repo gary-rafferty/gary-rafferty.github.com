@@ -73,9 +73,9 @@ It’s absolutely imperative to diagnose the symptoms, and determine if it’s p
 **Personal**: Bit of a minefield. Less (if at all) within a manager’s control, but support and bandwidth should be provided,.. for a fixed period of time.
 If my report is bored with their day to day, then I can expose them to new challenges, but if their wife ran away with the milkman, there’s significantly less that I can do.
 
-In both cases, managers are playing a supporting role, and ultimately, responsibility and accountability sits with the individual. It’s very important to maintain an ongoing dialogue, set very clear expectations, timebox actions and results, and communicate the potential outcomes. Communication and ownership is a two-way committment. The horse to watcher analogy springs to mind.
+In both cases, managers are playing a supporting role, and ultimately, responsibility and accountability sits with the individual. It’s very important to maintain an ongoing dialogue, set very clear expectations, timebox actions and results, and communicate the potential outcomes. Communication and ownership is a two-way committment. The horse to water analogy springs to mind.
 
-Demonstrate empathy, not sympathy, Be discerning. Do what’s right for the company, and keep this in mind when making decisions. If someone is problematic and cannot or will not change, then moving them sideways is not an option. Don’t pass a hot potato. You, as a manager, are responsible for managing out.  
+Demonstrate empathy, not sympathy, Be discerning. Most of these challenges can be solved, but ultimately, **do what’s right for the company**, and keep this in mind when making decisions. If someone is problematic and cannot or will not change, then moving them sideways is not an option. Don’t pass a hot potato. You, as a manager, are responsible for managing out.  
 
 Closing thoughts.
 
