@@ -43,15 +43,15 @@ Our helpful matrix will tell us that we need to delegate more. This person has a
 How long is the person in the role? What is their career goal? What lateral opportunities are present? In my opinion, a more important question to ask 
 is, “how long has that person been in the quadrant?”. 
 
-If the skillset is continually high, then we can probably hazard a guess that they’re not being exposed to new challenges. 
-Delegating more work to this person might be a valid mechanism of challenging them, but there might be better ways. Maybe an internal rotation will 
-open up new domains that they had not been exposed to, and to new team members with whom they will need to develop relationships and trust. 
-Maybe driving a community initiative will help them to sharpen some of their less-used soft-skills. Maybe mentoring an underperformer will help 
-them to refine coaching and empathetic acumen.  
+If an employee's skillset remains consistently high, it's likely they are not being exposed to new challenges. Delegating more work to this person could be a way to challenge them, but there might be better approaches.
+
+ - An internal rotation could open up new domains they haven't experienced before and introduce them to new team members, requiring them to develop new relationships and build trust.
+ - Driving a community initiative could help them sharpen some of their lesser-used soft skills. 
+ - Mentoring an underperforming employee might also help them refine their coaching and empathetic abilities.
+
+The key is to find ways to push the employee out of their comfort zone and expose them to new experiences and responsibilities. This can help them continue to grow and develop in their role, and regardless of the activities, we’re aiming to gently nudge them back towards the low skill dimension, whilst still maintaining those higher motivation levels.  
   
-Regardless of the activities, we’re aiming to gently nudge them back towards the low skill dimension, but maintaining the high motivation levels.  
-  
-Frame and shape the activity.
+Frame and shape the activity. Start with Why.
 
 Let’s contrast this with **Low Skill / Low Will**.
 
@@ -68,12 +68,14 @@ So assuming the will is there, then there are plenty of pragmatic approaches to 
 root-causing diminished motivation levels can be more ambiguous, and difficult for newer leaders. 
 It’s absolutely imperative to diagnose the symptoms, and determine if it’s professional, or personal. 
 
-**Professional**: The role or projects no longer excite the individual. In this case, you could switch the domain, strengthen their support network, or identify internal mobility options (for capable individuals). Important to differentiate intrinsic and extrinsic motivators. Sometimes parting ways is the best course of action for all.
+**Professional**: The role or projects no longer excite the individual. In this case, you could switch the domain, strengthen their support network, or identify internal mobility options (for capable individuals). It's important to differentiate intrinsic and extrinsic motivators. I often like to work backwards from their goals, and what they want to achieve. 
 
 **Personal**: Bit of a minefield. Less (if at all) within a manager’s control, but support and bandwidth should be provided,.. for a fixed period of time.
 If my report is bored with their day to day, then I can expose them to new challenges, but if their wife ran away with the milkman, there’s significantly less that I can do.
 
-In both cases, managers are playing a supporting role, and ultimately, responsibility and accountability sits with the individual. It’s very important to maintain an ongoing dialogue, set very clear expectations, timebox actions and results, and communicate the potential outcomes. Again, be discerning. Do what’s right for the company, and keep this in mind when making decisions. If someone is problematic and cannot or will not change, then moving them sideways is not an option. Don’t pass a hot potato. You, as a manager, are responsible for managing out.  
+In both cases, managers are playing a supporting role, and ultimately, responsibility and accountability sits with the individual. It’s very important to maintain an ongoing dialogue, set very clear expectations, timebox actions and results, and communicate the potential outcomes. Communication and ownership is a two-way committment. The horse to watcher analogy springs to mind.
+
+Demonstrate empathy, not sympathy, Be discerning. Do what’s right for the company, and keep this in mind when making decisions. If someone is problematic and cannot or will not change, then moving them sideways is not an option. Don’t pass a hot potato. You, as a manager, are responsible for managing out.  
 
 Closing thoughts.
 
