@@ -18,12 +18,12 @@ snapshot requires context. States are transient, and depending on the changes th
 
 <u>Distinguish the destination from the journey.</u>
 
-The axes of the matrix are shown below. One axis represents skil, and the other represents will.
+The axes of the matrix are described below. One represents skill, and the other represents will.
  
 **Skill**: The individual's ability to do their job, and whilst we typically observe a spectrum within this dimension, for this exercise, 
 we elevate the granularity and simply go with high or low.
 
-**Will**: The attitude, and how motivated / inspired the person is to complete their tasks and the expectations of their role. Again, 
+**Will**: The attitude, and how motivated / inspired the person is to complete their tasks and the expectations of their role. Again, there's a spectrum, but 
 elevate the granularity for the sake of the exercise.
 
 The first graph shows the inputs, and the second one the recommended leadership style that corresponds to each quadrant.
